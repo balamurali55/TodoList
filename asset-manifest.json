@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/balamurali55/TodoList.git/static/css/main.1ba818f0.css",
+    "main.js": "/balamurali55/TodoList.git/static/js/main.eec73db6.js",
+    "index.html": "/balamurali55/TodoList.git/index.html",
+    "main.1ba818f0.css.map": "/balamurali55/TodoList.git/static/css/main.1ba818f0.css.map",
+    "main.eec73db6.js.map": "/balamurali55/TodoList.git/static/js/main.eec73db6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ba818f0.css",
+    "static/js/main.eec73db6.js"
+  ]
+}
